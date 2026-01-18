@@ -12,3 +12,8 @@ Program, tarayıcı ayarlarını (EBYS izinleri için) kayıt defteri üzerinden
 Akis Kart Programında kartınız görünmezse Bilgisayarı Yeniden Başlatın.
 
 [Kurulum ekranı](images/ayarlar.png)   1.Tam Kurulumu Seçin
+
+## 📥 Kurulum Dosyasını İndirin
+Güncel kurulum sihirbazını aşağıdaki bağlantıdan indirebilirsiniz:
+
+👉 **[Ebys_Kurulum_2026.exe Dosyasını İndir](https://github.com/mkayisi/EBYS-Belgenet-Kurulum-2026/releases/download/v10/Ebys_Kurulum_2026.exe)**
