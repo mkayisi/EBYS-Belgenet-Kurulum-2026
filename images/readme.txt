@@ -1,1 +1,1 @@
-![Menü Görseli](images/ayaylar.png)
+![Menü Görseli](images/ayarlar.png)
