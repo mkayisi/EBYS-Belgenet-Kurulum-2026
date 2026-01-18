@@ -10,3 +10,4 @@ Bu durumda:
 **Neden Bu Uyarı Çıkıyor?**
 Program, tarayıcı ayarlarını (EBYS izinleri için) kayıt defteri üzerinden düzenler. Bu işlemler "bilinmeyen yayıncı" olarak yapıldığı için Windows uyarı verir.
 Akis Kart Programında kartınız görünmezse Bilgisayarı Yeniden Başlatın.
+Kurulum ekranı (images/ayarlar.png)
